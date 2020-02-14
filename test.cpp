@@ -2,5 +2,6 @@
 
 class test
 {
-
+public:
+	bool bValid;
 }
