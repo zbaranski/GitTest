@@ -4,5 +4,5 @@ class test
 {
 public:
 	bool bValid;
-	short sCount[3];
+	short sCount[5];
 }
