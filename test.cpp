@@ -5,6 +5,8 @@
 
 55555
 
+66666
+
 class test
 {
 public:
